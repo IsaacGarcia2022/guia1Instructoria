@@ -60,4 +60,4 @@ The app will be available at: `http://localhost:8080`
 1. **Serve the application**
 ```bash
 php artisan serve
-```
+```# guia1Instructoria
